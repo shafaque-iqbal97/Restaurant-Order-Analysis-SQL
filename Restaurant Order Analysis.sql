@@ -1,4 +1,4 @@
---Project
+--Restaurant-Order-Analysis-Project
 --Objective 1 - Item table
 
 DROP TABLE IF EXISTS items;
@@ -140,7 +140,7 @@ GROUP BY order_id, category, item_name
 ORDER BY COUNT(item_id) DESC;
 
 
---BONUS: View the details of the top 5 highest spend orders
+--View the details of the top 5 highest spend orders
 
 SELECT * FROM items i
 LEFT JOIN
@@ -156,6 +156,7 @@ LIMIT 5;
 
 
     
+
 
 
 
