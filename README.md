@@ -64,16 +64,33 @@ Determined overall average pricing strategy.
 
 Analyzed time coverage of orders using date range.
 
-📁 Repository Contents
+📊 Power BI Dashboard
 
-SQL Query File
+This project also includes an interactive Power BI dashboard to visualize restaurant sales and order trends.
 
-Dataset files
+🔹 Dashboard Features
+Total Revenue, Total Orders, and Average Order Value (KPIs)
+Top Selling Items analysis
+Orders trend over time
+Revenue distribution by category
+📷 Dashboard Preview
 
-README.md
+🔥 Key Insights
+Most revenue is generated from top-performing items
+Certain categories contribute more to overall sales
+Order trends show peak activity during specific periods
+A small number of items drive a large portion of orders
+
 
 🚀 Tools Used
 
 SQL
 
 PostgreSQL
+
+Power BI
+
+
+Author
+
+Shafaque Iqbal
